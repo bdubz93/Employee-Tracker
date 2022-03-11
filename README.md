@@ -14,12 +14,13 @@
   ## Installation
   - To install, click the green code button. Download the zip file and unpack. Open in your favourite code editor.
   - Open index.js and open the terminal
+  - Change mysql database password to your password
   - In the terminal run "npm i"
   - In the termianl run "npm start"
   - Follow the onscreen prompts
 
   ## Usage
-  [DEMO VIDEO](https://brandon-notetaker.herokuapp.com/).
+  [DEMO VIDEO](https://drive.google.com/file/d/1Ya53p_eJriCaKdG61gCGHrIj4pYs4umW/view).
 
   ![Screenshot](assets/images/screenshot.png)
   
